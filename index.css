@@ -1,0 +1,68 @@
+.html{
+       
+       font-size: 50%;
+}
+.body{
+       margin: auto;
+}
+.class{
+      color: red;
+      font-size: 20px;
+}
+.text{
+       font-style: italic;
+       color: red;
+       font-size: 30px;
+}
+.list{
+       color: brown;
+       font-size: 20px; 
+}
+.first{
+       text-decoration: line-through;
+}
+.second{
+        background-color: yellow;
+}
+.third{
+        text-decoration: underline;
+        font-style: italic;
+}
+.forth{
+         font-style: italic;   
+         font-size: 25px;
+         color: red;
+}
+.list2{
+         color: brown;
+         letter-spacing: 0.1cm;
+}
+.fifth{
+        background-color: yellow;
+}
+.sixth{
+        color: rgb(189, 28, 28);
+}
+.seventh{
+        color: brown;
+        background-color: yellow;
+        font-style: italic;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
